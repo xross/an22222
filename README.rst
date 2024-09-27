@@ -1,7 +1,7 @@
 :orphan:
 
 ##############################
-AN0xxxx: app_note_title
+an22222: Awesome 22 app note
 ##############################
 
 :vendor: XMOS
